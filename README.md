@@ -62,7 +62,7 @@ Figure 3. Pre-labelled messages categories.
 ![top 10](img/top10.png)
 Figure 4. Distribution of messages by genres in top 10 categories.
 
-![example](img/example.jpg)
+![example](img/example.JPG)
 Figure 5. An example message _"We are more than 50 people sleeping on the street. Please help us find' tent, food."_ is classified in the following categories: request, offer, medical help, shelter, clothing.
 
 ## File Description <a name="File-Descriptions"></a>
@@ -115,11 +115,11 @@ d. Go to the app's directory and run the command
 cd app
 python run.py
 ```
-![result](img/result.jpg)
+![result](img/result.JPG)
 
 e. The web app instantiates. Type http://0.0.0.0:3001/ or http://localhost:3001/ to launch the webpage on the web browser.
 
-![run](img/run.jpg)
+![run](img/run.JPG)
 
 f. Input any message in the input box and click on the Classify Message button to see the categories that the message may belong to.
 
