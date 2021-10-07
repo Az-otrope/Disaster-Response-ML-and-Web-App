@@ -135,8 +135,8 @@ One of the goals of this project is to implement the use of GridSearchCV to tune
 The jupyter notebook `ML Pipeline Preparation_NP` entails two other classification models, KNN and Decision Tree. Three algorithms are tested with and without GridSearchCV. They are then scored against each other based on the accuracy scores. All models performed better without GirdSearch implementation. This could be due to the highly imbalanced data and poor labels.
 
 ### 3. Suggestions
-The following suggestions can improve the model:
-a. f1-score is better as a comparison metric for imbalanced dataset
+The following suggestions can improve the model: <br>
+a. f1-score is better as a comparison metric for imbalanced dataset <br>
 b. Take the context of the message into account to improve the labelling process for training data.
 
 
