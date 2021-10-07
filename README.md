@@ -1,4 +1,4 @@
-# Disaster Response Web App
+# Disaster Response Pipeline and Web App
 - [Project Overview](#Project-Overview)
 - [Installation](#Installation)
 - [Project Components](#Components)
